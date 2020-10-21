@@ -4,6 +4,13 @@
 
 [1]: https://www.npmjs.com/package/google-proto-files?activeTab=versions
 
+## [2.3.0](https://www.github.com/googleapis/nodejs-proto-files/compare/v2.2.0...v2.3.0) (2020-10-21)
+
+
+### Features
+
+* adds gapic_metadata.proto ([511c100](https://www.github.com/googleapis/nodejs-proto-files/commit/511c1007630ade914051fe53ec82487b54c0c010))
+
 ## [2.2.0](https://www.github.com/googleapis/nodejs-proto-files/compare/v2.1.1...v2.2.0) (2020-07-10)
 
 
